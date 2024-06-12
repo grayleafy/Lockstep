@@ -1,0 +1,6 @@
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\LeafNet\bin\Debug\LeafNet.dll
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\LeafNet\bin\Debug\LeafNet.pdb
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\LeafNet\obj\Debug\LeafNet.csproj.AssemblyReference.cache
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\LeafNet\obj\Debug\LeafNet.csproj.CoreCompileInputs.cache
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\LeafNet\obj\Debug\LeafNet.dll
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\LeafNet\obj\Debug\LeafNet.pdb

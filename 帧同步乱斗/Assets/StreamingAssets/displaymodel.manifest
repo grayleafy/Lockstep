@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2591954917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9ab0e0a77a70f654576785139ac476f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3751da60e25fd07a294c007ddec52cb7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ad980451443d70438faac0bc6c235a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Cinemachine
+  ClassName: Cinemachine.CinemachineBrain/VcamActivatedEvent
+- AssemblyName: Cinemachine
+  ClassName: Cinemachine.CinemachineVirtualCameraBase/TransitionParams
+- AssemblyName: Cinemachine
+  ClassName: Cinemachine.LensSettings
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+Assets:
+- "Assets/DisplayModels/\u6076\u9B54.prefab"
+- "Assets/DisplayModels/\u51B0\u67AA2.prefab"
+- "Assets/DisplayModels/\u6D4B\u8BD5\u89D2\u8272-\u738B.prefab"
+- "Assets/DisplayModels/\u6D4B\u8BD5\u89D2\u8272-\u6076\u9B54.prefab"
+- "Assets/DisplayModels/\u9AB7\u9AC5.prefab"
+- "Assets/DisplayModels/\u51B0\u67AA1.prefab"
+Dependencies: []

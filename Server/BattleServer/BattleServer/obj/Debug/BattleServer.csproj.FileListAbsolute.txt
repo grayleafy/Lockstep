@@ -1,0 +1,13 @@
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\BattleServer\bin\Debug\BattleServer.exe.config
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\BattleServer\bin\Debug\BattleServer.exe
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\BattleServer\bin\Debug\BattleServer.pdb
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\BattleServer\bin\Debug\LeafNet.dll
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\BattleServer\bin\Debug\Messages.dll
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\BattleServer\bin\Debug\LeafNet.pdb
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\BattleServer\bin\Debug\Messages.pdb
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\BattleServer\obj\Debug\BattleServer.csproj.AssemblyReference.cache
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\BattleServer\obj\Debug\BattleServer.csproj.SuggestedBindingRedirects.cache
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\BattleServer\obj\Debug\BattleServer.csproj.CoreCompileInputs.cache
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\BattleServer\obj\Debug\BattleServer.csproj.CopyComplete
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\BattleServer\obj\Debug\BattleServer.exe
+E:\grayleaf\unity\帧同步乱斗\Server\BattleServer\BattleServer\obj\Debug\BattleServer.pdb

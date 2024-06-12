@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4276514997
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: shader
+    Info_1:
+      Name: font
+      Dependencies:
+        Dependency_0: shader
+    Info_2:
+      Name: shader
+      Dependencies: {}
+    Info_3:
+      Name: config
+      Dependencies: {}
+    Info_4:
+      Name: displaymodel
+      Dependencies: {}
